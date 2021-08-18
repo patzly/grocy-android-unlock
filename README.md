@@ -10,10 +10,6 @@ Grocy Android is an open-source Android client for [grocy](https://grocy.info/) 
 
 <a href='https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy.unlock'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a><a href='https://github.com/patzly/grocy-android-unlock/releases'><img alt='Get it on GitHub' height="80" src='assets/badge_github.png'/></a>
 
-## FAQ
-
-Please see [here](https://github.com/patzly/grocy-android/blob/master/FAQ.md) for a list of frequently asked questions.
-
 ## License
 
 Copyright &copy; 2020-2021 Patrick Zedler & Dominic Zedler. All rights reserved.
