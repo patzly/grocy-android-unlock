@@ -4,8 +4,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![Release](https://img.shields.io/github/v/release/patzly/grocy-android-unlock?label=Release&logo=github)](https://github.com/patzly/grocy-android-unlock/releases)  [![APK Downloads](https://img.shields.io/github/downloads/patzly/grocy-android-unlock/total.svg?label=APK%20Downloads&logo=github)](https://github.com/patzly/grocy-android-unlock/releases)
 
-**Version 2.0.0 is finished soon. You can download the latest beta from the sources listed below. Compatibility details are [here](https://github.com/patzly/grocy-android/blob/master/README.md#user-content-compatibility).**
-
 Grocy Android is an open-source Android client for [grocy](https://grocy.info/) ([source code](https://github.com/grocy/grocy)). grocy is a self-hosted groceries & household management solution for your home.
 
 ## Download
