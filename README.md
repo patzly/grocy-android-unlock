@@ -2,7 +2,7 @@
 
 # Grocy Android Unlock Key
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![Release](https://img.shields.io/github/v/release/patzly/grocy-android?label=Release&logo=github)](https://github.com/patzly/grocy-android/releases)  [![APK Downloads](https://img.shields.io/github/downloads/patzly/grocy-android/total.svg?label=APK%20Downloads&logo=github)](https://github.com/patzly/grocy-android/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![Release](https://img.shields.io/github/v/release/patzly/grocy-android-unlock?label=Release&logo=github)](https://github.com/patzly/grocy-android-unlock/releases)  [![APK Downloads](https://img.shields.io/github/downloads/patzly/grocy-android-unlock/total.svg?label=APK%20Downloads&logo=github)](https://github.com/patzly/grocy-android-unlock/releases)
 
 **Version 2.0.0 is finished soon. You can download the latest beta from the sources listed below. Compatibility details are [here](https://github.com/patzly/grocy-android/blob/master/README.md#user-content-compatibility).**
 
@@ -10,7 +10,7 @@ Grocy Android is an open-source Android client for [grocy](https://grocy.info/) 
 
 ## Download
 
-<a href='https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a><a href='https://github.com/patzly/grocy-android/releases'><img alt='Get it on GitHub' height="80" src='assets/badge_github.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy.unlock'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a><a href='https://github.com/patzly/grocy-android-unlock/releases'><img alt='Get it on GitHub' height="80" src='assets/badge_github.png'/></a>
 
 ## FAQ
 
