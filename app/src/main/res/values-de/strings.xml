@@ -1,4 +1,4 @@
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ This file is part of Grocy Android.
   ~
   ~ Grocy Android is free software: you can redistribute it and/or modify
@@ -19,6 +19,6 @@
 
 <resources>
 
-  <string name="app_name">Grocy Unlock Key</string>
+  <string name="app_name">Grocy Unlock-Key</string>
 
 </resources>
