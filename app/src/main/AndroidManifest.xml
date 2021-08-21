@@ -29,7 +29,7 @@
     android:theme="@style/Theme.AppCompat">
 
     <activity
-      android:name=".MainActivity"
+      android:name=".CheckActivity"
       android:exported="true">
 
       <intent-filter>

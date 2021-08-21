@@ -19,13 +19,12 @@
 
 package xyz.zedler.patrick.grocy.unlock;
 
-import android.content.pm.PackageManager.NameNotFoundException;
 import android.os.Build;
 import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class CheckActivity extends AppCompatActivity {
 
   private final static int PURCHASED = 1;
   private final static int NOT_PURCHASED = 0;
