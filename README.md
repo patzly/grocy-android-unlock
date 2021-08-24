@@ -21,8 +21,8 @@ Grocy Android has two barcode scanners included, ZXing and ML Kit.
 
 To use ML Kit, you need to install this unlock app. This requires either a one-time purchase on [Google Play](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy.unlock) or downloading the APK on the release page here on GitHub. Why we have made this decision?
 
-You can enjoy Grocy Android completely ad-free. This means that we have not received anything for our work so far. However, because the development takes a lot of time, work and motivation, we would be very happy if you buy the unlock app. Surely the earned money does not reflect the effort, but we are motivated to further improve the app!  
-There would also be donations, that's true. Unfortunately, Google prohibits any form of payment if there is no service in return. That's why we have included this unlock feature.
+**You can enjoy Grocy Android completely ad-free. This means that we have not received anything for our work so far. However, because the development takes a lot of time, work and motivation, we would be very happy if you buy the unlock app. Surely the earned money does not reflect the effort, but we are motivated to further improve the app!  
+There would also be donations, that's true. Unfortunately, Google prohibits any form of payment if there is no service in return. That's why we have included this unlock feature.**
 
 If you don't want to support us, you can download the unlock app for free here on GitHub. Grocy Android and the unlock app are open source and will remain so forever.
 
@@ -32,6 +32,8 @@ Dominic & Patrick Zedler
 You need the latest beta version of Grocy Android (at least v2.0.0-beta03) for the unlocking feature to work.
 
 ## Download
+
+**We understand that it is easier to download the unlock app for free from GitHub. However, we'd love to see you purchase it in the Play Store to support our work!**
 
 <a href='https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy.unlock'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a><a href='https://github.com/patzly/grocy-android-unlock/releases'><img alt='Get it on GitHub' height="80" src='assets/badge_github.png'/></a>
 
