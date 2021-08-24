@@ -6,7 +6,6 @@
 
 This app is part of the app [Grocy Android](https://github.com/patzly/grocy-android/), an open-source Android client for [grocy](https://grocy.info/) ([source code](https://github.com/grocy/grocy)). grocy is a self-hosted groceries & household management solution for your home.
 
-Grocy is a self-hosted groceries and household management solution for your home. Please visit grocy.info for more information about the project.
 Grocy Android uses grocy's official API to provide you a beautiful interface on your phone with powerful barcode scanning and intuitive batch processing, all what you need to efficiently manage your groceries.
 
 Grocy Android has two barcode scanners included, ZXing and ML Kit.
