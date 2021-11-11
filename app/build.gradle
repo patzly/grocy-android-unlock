@@ -22,14 +22,14 @@ plugins {
 }
 
 android {
-    compileSdk 30
+    compileSdk 31
 
     defaultConfig {
         applicationId "xyz.zedler.patrick.grocy.unlock"
         minSdk 21
-        targetSdk 30
-        versionCode 1
-        versionName "1.0.0"
+        targetSdk 31
+        versionCode 2
+        versionName "1.0.1"
     }
 
     buildTypes {
@@ -48,7 +48,7 @@ android {
         targetCompatibility 1.8
     }
 
-    buildToolsVersion '30.0.3'
+    buildToolsVersion '31.0.0'
 }
 
 dependencies {
