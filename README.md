@@ -29,7 +29,7 @@ If you don't want to support us, you can download the unlock app for free here o
 Let's go, thanks in advance!  
 Dominic & Patrick Zedler
 
-You need the latest beta version of Grocy Android (at least v2.0.0-beta03) for the unlocking feature to work.
+You need at least Grocy Android v2.0.0 for the unlocking feature to work.
 
 ## Download
 
