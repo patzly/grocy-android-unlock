@@ -39,7 +39,7 @@ You need at least Grocy Android v2.0.0 for the unlocking feature to work.
 
 ## License
 
-Copyright &copy; 2020-2021 Patrick Zedler & Dominic Zedler. All rights reserved.
+Copyright &copy; 2020-2022 Patrick Zedler & Dominic Zedler. All rights reserved.
 
 [GNU General Public License version 3](https://www.gnu.org/licenses/gpl.txt)
 
