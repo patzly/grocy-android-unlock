@@ -33,7 +33,7 @@ You need at least Grocy Android v2.0.0 for the unlocking feature to work.
 
 ## Download
 
-**We understand that it is easier to download the unlock app for free from GitHub. However, we'd love to see you purchase it in the Play Store to support our work!**
+**We understand that it is easier to download the unlock app for free on GitHub. However, we'd love to see you purchase it on Google Play to support our work!**
 
 <a href='https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy.unlock'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a><a href='https://github.com/patzly/grocy-android-unlock/releases'><img alt='Get it on GitHub' height="80" src='assets/badge_github.png'/></a>
 
