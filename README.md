@@ -2,7 +2,7 @@
 
 # Grocy Android Unlock Key
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![Release](https://img.shields.io/github/v/release/patzly/grocy-android-unlock?label=Release&logo=github)](https://github.com/patzly/grocy-android-unlock/releases)  [![APK Downloads](https://img.shields.io/github/downloads/patzly/grocy-android-unlock/total.svg?label=APK%20Downloads&logo=github)](https://github.com/patzly/grocy-android-unlock/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![Release](https://img.shields.io/github/v/release/patzly/grocy-android-unlock?label=Release)](https://github.com/patzly/grocy-android-unlock/releases)  [![APK Downloads](https://img.shields.io/github/downloads/patzly/grocy-android-unlock/total.svg?label=APK%20Downloads)](https://github.com/patzly/grocy-android-unlock/releases)
 
 This app is part of the app [Grocy Android](https://github.com/patzly/grocy-android/), an open-source Android client for [grocy](https://grocy.info/) ([source code](https://github.com/grocy/grocy)). grocy is a self-hosted groceries & household management solution for your home.
 
