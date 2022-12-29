@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with Grocy Android. If not, see http://www.gnu.org/licenses/.
  *
- * Copyright (c) 2020-2021 by Patrick Zedler and Dominic Zedler
+ * Copyright (c) 2020-2022 by Patrick Zedler and Dominic Zedler
  */
 
 plugins {
@@ -22,31 +22,43 @@ plugins {
 }
 
 android {
-    buildToolsVersion '31.0.0'
-    compileSdkVersion 31
+    namespace 'xyz.zedler.patrick.grocy.unlock'
+    compileSdkVersion 33
+    buildToolsVersion '33.0.1'
 
     defaultConfig {
         applicationId "xyz.zedler.patrick.grocy.unlock"
-        minSdk 21
-        targetSdk 31
-        versionCode 3
-        versionName "1.0.2"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 4
+        versionName '1.0.3'
     }
 
     buildTypes {
         release {
-            minifyEnabled true
-            proguardFiles {
-                getDefaultProguardFile('proguard-android-optimize.txt')
-                'proguard-rules.pro'
+            postprocessing {
+                removeUnusedCode true
+                removeUnusedResources true
+                obfuscate false
+                optimizeCode true
+                proguardFiles {
+                    getDefaultProguardFile('proguard-android-optimize.txt')
+                    'proguard-rules.pro'
+                }
             }
             debuggable false
         }
     }
 
+    bundle {
+        storeArchive {
+            enable true
+        }
+    }
+
     compileOptions {
-        sourceCompatibility 1.8
-        targetCompatibility 1.8
+        sourceCompatibility 11
+        targetCompatibility 11
     }
 }
 
