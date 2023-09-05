@@ -17,6 +17,13 @@
  * Copyright (c) 2020-2022 by Patrick Zedler and Dominic Zedler
  */
 
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -24,5 +31,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "Grocy Unlock Key"
 include ':app'
