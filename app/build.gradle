@@ -51,6 +51,10 @@ android {
         }
     }
 
+    buildFeatures {
+        buildConfig true
+    }
+
     bundle {
         storeArchive {
             enable true
